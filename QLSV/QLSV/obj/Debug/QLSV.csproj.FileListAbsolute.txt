@@ -1,0 +1,12 @@
+D:\C#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\C#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\C#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.DangKy.resources
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.Login.resources
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\C#\QLSV\QLSV\obj\Debug\QuanLySV.Form2.resources
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\C#\QLSV\QLSV\obj\Debug\QLSV.pdb
